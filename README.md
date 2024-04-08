@@ -23,9 +23,9 @@ II. Steps:
   3. Compare GMV vs Rebate
 
   4. Fraud detection
-     - 4.1. Checked the shops with the most orders and most more-than-one-time orders with the max rebate
-     - 4.2. Checked the users were trying to buy from the same shops and maxed out the rebate on every order
-     - 4.3. Matched the results to see which shops were trying cooperate with users to took advantages of the promotion programs
+     - 4.1. Checked the shops with the most orders and most more-than-one-time orders with the maximum rebate
+     - 4.2. Checked the users who were trying to buy from the same shops and maxed out the rebate on every order
+     - 4.3. Matched the results to see which shops were trying to cooperate with users to take advantage of the promotion programs
 
 
 III. Tools:
